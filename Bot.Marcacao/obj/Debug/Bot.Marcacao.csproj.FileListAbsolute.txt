@@ -1,0 +1,2 @@
+C:\Users\Desenvolvedor\source\repos\Bot.Marcacao\Bot.Marcacao\obj\Debug\Bot.Marcacao.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\source\repos\Bot.Marcacao\Bot.Marcacao\obj\Debug\Bot.Marcacao.csproj.CoreCompileInputs.cache
